@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-##| **Hora**        | **Lunes** | ** Martes ** | **Miercoles** | **Jueves** | **Viernes** |
+#Horario
+| **Hora**        | **Lunes** | ** Martes ** | **Miercoles** | **Jueves** | **Viernes** |
 |-----------------|:---------:|:------------:|:-------------:|:----------:|:-----------:|
 | _7:00 - 7:50_   |    C.V.   |    M.R.C.    |     M.R.C.    |    Fís.    |    M.R.C.   |
 | _7:55 - 8:45_   |    Fís.   |     Bio.     |      Bio      |  A.F.D.R.  |     Bio.    |
