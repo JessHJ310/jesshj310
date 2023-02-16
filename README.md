@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🏫 Estudiante de preparatoria
+🖥️ Capacitación de Tics
+🐱 Me encantan los gatos
+✏️ Amante del dibujo
+🎵 Y la música
+
 
 
 ### Horario
