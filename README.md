@@ -5,6 +5,7 @@
 🐱 Me encantan los gatos
 ✏️ Amante del dibujo
 🎵 Y la música
+APRENDE A CERRAR TU CUENTA AMIKITE 🖕
 
 
 
